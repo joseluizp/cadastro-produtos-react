@@ -1,4 +1,6 @@
-### Treinamento React com Bootstrap, Json, Axios
+### Primeira tela
+
+<img src="./preview/Projeto.png" alt="primeira tela">
 
 * React
     useState()
@@ -19,3 +21,15 @@ npm run dev
 ´´´
 npm run api
 ´´´
+
+#### Comandos Git 
+
+*git init
+
+*git add .
+
+#### Comandos Usados  para atualizar um projeto
+
+*git add .
+*git commit -m updated
+*git push
