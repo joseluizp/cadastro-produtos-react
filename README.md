@@ -1,35 +1,35 @@
-### Primeira tela
+Cadastro de Produtos (React)
 
+Projeto desenvolvido em React com o objetivo de praticar conceitos fundamentais do desenvolvimento front-end, como componentização, gerenciamento de estado e lógica de CRUD (Create, Read, Update e Delete).
+
+A aplicação permite cadastrar, listar, editar e remover produtos dinamicamente, simulando um sistema simples de gerenciamento de estoque.
+
+#### Interface do projeto
 <img src="./preview/Projeto.png" alt="primeira tela">
 
-* React
-    useState()
-    useEffect()
-* Font Awesome
-    Icons
-* Bootstrap
-    Classes já vem configuradas
-* Axios
-    Get, Post, Put, Delete
+#### Tecnologias utilizadas
+React.js
+Hooks (useState, useEffect)
+Axios (consumo de API)
+Bootstrap (estilização com classes prontas)
+Font Awesome (ícones)
+Funcionalidades
+Cadastro de produtos
+Listagem dinâmica de produtos
+Edição de produtos existentes
+Remoção de produtos
+Atualização em tempo real da interface
+Consumo de API com operações CRUD
 
-#### Para rodar o projeto
-´´´
-npm run dev
-´´´
+#### Como executar o projeto
+Instalar dependências
+npm install
+Iniciar a API (obrigatório)
+A API precisa estar rodando para que os dados e imagens sejam carregados corretamente na aplicação.
 
-#### Para rodar api
-´´´
 npm run api
-´´´
+Iniciar o projeto React
 
-#### Comandos Git 
+Em outro terminal, execute:
 
-*git init
-
-*git add .
-
-#### Comandos Usados  para atualizar um projeto
-
-*git add .
-*git commit -m updated
-*git push
+npm run dev
